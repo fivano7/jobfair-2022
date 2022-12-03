@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Suprabit Jobfair 2022 Challenge",
   "scripts": {
-    "test": "hardhat compile && hardhat test",
-    "hardhatNode": "npx hardhat node",
-    "deploy": "npx hardhat run scripts/deploy.ts --network localhost"
+    "test": "hardhat compile && hardhat test"
   },
   "repository": {
     "type": "git",
